@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "6b860a5d-8362-49aa-b0d6-55ab1644d09a",
+		"name": "themoviedb calls",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23019594"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
